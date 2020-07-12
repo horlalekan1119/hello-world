@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+<style>
+   .shoes {
+       position: relative;
+       bottom: 20px;
+   }
+    
+    h2 {
+        display: inline;
+        position: relative;
+        bottom: 20px;
+    }
+    .details {
+        border-bottom: 1px solid #000;
+        margin-top: 40px;
+    }
+    
+</style>
+</head>
+<body>
+<header>
+    <div class="details">
+    <h2 class="contact">Get Our Contact Details</h2> 
+    <img src="shoes.jpg" height="50" width="60" class="shoes">
+    </div>
+</header>
+
+<main>
+    <p>It's our pleasure to meet with you. Below is the contact details of any of our staffs and their corresponding departments.</p>
+<table border="1">
+    <tr>
+        <th>Name of Staff</th>
+        <th>Department</th>
+        <th>Level</th>
+        <th>Phone Number</th>
+        <th>Email address</th>
+    </tr>
+    <tr>
+        <td>Alan Benny</td>
+        <td>Sales</td>
+        <td>5</td>
+        <td>09093567645</td>
+        <td>alanbenny@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Benson Harley</td>
+        <td>Purchase</td>
+        <td>3</td>
+        <td>07087576544</td>
+        <td>bensonharley@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Kaggen Marr</td>
+        <td>Sales</td>
+        <td>2</td>
+        <td>08067564577</td>
+        <td>kaggenmarr@yahoo.com</td>
+    </tr>
+    <tr>
+        <td>Barry Helen</td>
+        <td>Sales</td>
+        <td>3</td>
+        <td>09087990987</td>
+        <td>barryhelen@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Aiyyah Mern</td>
+        <td>Sales</td>
+        <td>4</td>
+        <td>09096574533</td>
+        <td>aiyyamern@hotmail.com</td>
+    </tr>
+    <tr>
+        <td>Shawn Mary</td>
+        <td>Sales</td>
+        <td>3</td>
+        <td>09056746534</td>
+        <td>shawnmary@live.com</td>
+    </tr>
+    <tr>
+        <td>George Harrison</td>
+        <td>Purchase</td>
+        <td>2</td>
+        <td>07065787656</td>
+        <td>georgeharrison@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Paul Mart</td>
+        <td>Customer's Service</td>
+        <td>3</td>
+        <td>09045342322</td>
+        <td>paulmart@hotmail.com</td>
+    </tr>
+    <tr>
+        <td>Benny Gills</td>
+        <td>Administrative</td>
+        <td>4</td>
+        <td>09065544332</td>
+        <td>bennygills@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Don Mauren</td>
+        <td>Sales</td>
+        <td>3</td>
+        <td>09093455678</td>
+        <td>donmauren@hotmail.com</td>
+    </tr>
+    <tr>
+        <td>Shen Kammy</td>
+        <td>Customer's Service</td>
+        <td>2</td>
+        <td>07087779098</td>
+        <td>shenkammy@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Miami Away</td>
+        <td>Customer's Service</td>
+        <td>2</td>
+        <td>08067654533</td>
+        <td>miamiaway@hotmail.com</td>
+    </tr>
+    <tr>
+        <td>Kenny Caroline</td>
+        <td>Sales</td>
+        <td>3</td>
+        <td>08078765666</td>
+        <td>kennycaroline@hotmail.com</td>
+    </tr>
+    <tr>
+        <td>Davies Kay</td>
+        <td>Purchase</td>
+        <td>3</td>
+        <td>09076565444</td>
+        <td>davieskay@outlook.com</td>
+    </tr>
+    <tr>
+        <td>Abel Sarah</td>
+        <td>Purchase</td>
+        <td>3</td>
+        <td>09012343211</td>
+        <td>abelsarah@outlook.com</td>
+    </tr>
+</table>
+<hr>
+<p>Copyright &copy; 2020</p>
+
+<p>All rights reserved</p>
+
+
+
+
+
+
+
+
+</main>
+
+</body>
+</html>
