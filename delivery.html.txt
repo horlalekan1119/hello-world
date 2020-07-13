@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delivery</title>
+<style>
+    h2 {
+        display: inline;
+    }
+</style>
+</head>
+<body>
+    <header>
+        <div>
+        <h2>For your Door-Step Delivery</h2> 
+        <img src="shoes.jpg" height="50" width="60">
+        </div>
+        <br><hr>
+    </header>
+    <fieldset>
+        <legend>Your details</legend>
+        <ul>
+            <li>Name <br><input type="text" placeholder="Enter your fullname"></li>
+            <li>Email Address <br><input type="text" placeholder="Enter your email address"> </li>
+            <li>Phone number <br><input type="text" placeholder="Enter your telephone number"> </li>
+            <li>Sex <br><input type="radio" name="male" value="male" checked>Male  <input type="radio" name="female" value="female">Female   </li>
+            <li>Home address<br><textarea name="Home address" placeholder="Give details of your home address" rows="10" cols="30"></textarea></li>
+        </ul>
+    </fieldset>
+    <fieldset>
+        <legend>Delivery Specs</legend>
+        <ul>
+            <li>Shoe type <br><input type="radio" name="men's type" checked>Men's type<input type="radio" name="ladies' type">Ladies' type</li>
+            <li>Color <br><input type="radio" name="white" checked>White <input type="radio" name="black">Black 
+            <input type="radio" name="red">Red <input type="radio" name="brown">Brown <input type="radio" name="purple">Purple </li>
+            <li>Shoe Size <br><input type="radio" name="medium" checked>Medium <input type="radio" name="Medium">Medium 
+            <input type="radio" name="big"> Big </li>
+            <li>Delivery mode <br><input type="radio" name="regular mode">Regular mode <input type="radio" name="VIP mode">VIP mode 
+            <input type="radio" name="VVIP">VVIP mode  </li>
+        </ul>
+    </fieldset>
+    <fieldset>
+        <legend>Payment Instructions</legend>
+        <ul>
+            <li>Bank Name</li>
+            <select name="bank name">
+                <option>**select a bank**</option>
+                <option>Access Bank</option>
+                <option>Fidelity Bank</option>
+                <option>Guaranty Trust Bank(GTB)</option>
+            </select>
+            <li>Account Name</li>
+            <input type="text" name="account name" placeholder="Enter your account name">
+            <li>Account Number</li>
+            <input type="number" name="account number" placeholder="Enter your account number">
+        </ul>
+    </fieldset>
+    <input type="submit" name="submit" value="Submit">
+    <br>
+    <sub>Copyright &copy; 2020</sub>
+    <br>
+    <br>
+    <sup>All rights reserved</sup>
+</body>
+</html>

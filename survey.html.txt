@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey form</title>
+<style>
+    h2 {
+        display: inline;
+    }
+</style>
+</head>
+<body>
+    <header>
+        <div>
+            <h2>Survey Form</h2>
+            <img src="shoes.jpg" height="50" width="60">
+        </div>
+        <br>
+        <hr>
+    </header>
+    <main>
+        <p>Let us know how we can improve our services at <em>Akila Shoes</em></p>
+        <div>
+            <p>*Name</p>
+            <input type="text" name="name" placeholder="Enter your full name">
+        </div>
+        <div>
+            <p>*Email</p>
+            <input type="email" name="email" placeholder="Enter your email here">
+        </div>
+        <div>
+            <p>*Age</p>
+            <input type="number" name="age" placeholder="Enter your age in years">
+        </div>
+        <div>
+            <ul>
+                <li>Which option best describes your current role <br><br>
+                <input type="radio" name="student" checked>Student 
+                <input type="radio" name="self-employed">SelfEmployed  
+                <input type="radio" name="worker">Worker
+                <input type="radio" name="other">Other
+                </li>
+                <br>
+                <li>*How likely is it that you will recommend <em>Akila Shoes</em> to your friends? <br><br>
+                    <input type="radio" name="defintely" checked>Definitely
+                    <input type="radio" name="not sure">Not sure
+                    <input type="radio" name="not likely">Not likely
+                </li>
+                <br>
+                <li>What do you like most in our company?
+                    <br><br>
+                    <select name="likemost">
+                        <option>Select an option</option>
+                        <option>The Products</option>
+                        <option>Customer services</option>
+                    </select>
+                </li>
+                <br>
+                <li>What kind of shoes do you like?
+                    <br><br>
+                    <input type="checkbox" name="designers" checked>Designers
+                    <input type="checkbox" name="sneakers">Sneakers
+                    <input type="checkbox" name="sandals">Sandals
+                    <input type="checkbox" name="slippers">Slippers
+                    <input type="checkbox" name="male designs">Male designs
+                    <input type="checkbox" name="female designs">Female designs
+                </li>
+            </ul>
+        </div>
+    </main>
+    <hr>
+    <footer>
+        <p>Copyrights &copy; 2020</p>
+        <p>All rights reserved</p>
+    </footer>
+        
+</body>
+</html>

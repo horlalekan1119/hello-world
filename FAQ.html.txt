@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequently Asked Questions</title>
+<style>
+    h1 {
+        display: inline;
+    }
+</style>
+</head>
+<body>
+    <header>
+        <div>
+        <h1>Frequently Asked Questions</h1> 
+        <img src="shoes.jpg" height="50" width="60">
+        </div>
+        <br><hr>
+    </header>
+    <main>
+        <p>It's normal to have some things you want to get clarifications on about Akila Shoes, feel free to ask anything using the form below</p>
+        <fieldset>
+            <legend>Details</legend>
+            <div>First Name 
+            <br><br>
+            <input type="text" name="firstname" placeholder="Enter your first name">
+            </div>
+            <br>
+            <div>Last Name
+            <br><br>
+            <input type="text" name="lastname" placeholder="Enter your last name">
+            </div>
+            <br>
+            <div>Telephone Number
+            <br><br>
+            <input type="text" name="telephonenumber" placeholder="Enter your phone number">
+            </div>
+            <br>
+            <div>Email
+            <br><br>
+            <input type="email" name="email" placeholder="Enter your email">
+            </div>
+            <br>
+        </fieldset>
+        <fieldset>
+            <legend>Message</legend>
+            <br>
+            <textarea name="message" placeholder="Leave a message for us" rows="5" cols="20"></textarea>
+            <br><br>
+        </fieldset>
+        <hr>
+    </main>
+    <footer>
+        <p>Copyright &copy; 2020</p>
+        
+        <p>All rights reserved</p>
+    </footer>
+</body>
+</html>

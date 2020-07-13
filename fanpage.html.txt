@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fanpage</title>
+<style>
+    h2 {
+        display: inline;
+    }
+</style>
+</head>
+<body>
+    <header>
+        <div>
+        <h2>Akila Shoes' Fans</h2> 
+        <img src="shoes.jpg" height="50" width="60">
+        </div>
+        <br><hr>
+    </header>
+    <main>
+        <p>Being one of the highest rated shoes plug, here is the page where various customers get to interact with one another</p>
+        <p>The following are the extracts from the show organized by <b>Akila Fans</b></p>
+        <ul>
+            <li><video src="akila.mp4" width="400" height="280" poster="akila.jpg" controls> </video></li>
+            <li><audio id="akila1" controls preload="auto">
+                <source src="akila1.mp3" type="audio/mp3">
+                <source src="akila1.ogg" type="audio/ogg">
+                <source src="akila1.webm" type="audio/webm">
+            </audio></li>
+        </ul>
+        <p>Feel free to drop any comments you have using this <a href="#">link</a>   </p>
+    </main>
+    <footer>
+        <hr>
+        Copyright &copy; 2020
+        <br>
+        <br>
+        All rights reserved
+    </footer>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Male shoes</title>
+</head>
+<body>
+    <header>
+    <a href="#">Go back home</a>
+        <br><br>
+        <div>
+        <img src="male1.jpg" height="50" width="60">
+        <h2>Male Designs</h2>
+
+        <hr>
+        </div>
+    </header>
+    <main>
+        <div>
+        <h3>Party Shoes</h3>
+        <p>Lorem ipsum dlor, sit amet consectetur adipscing elit. Dolores quas ducimus vitae id voluptatibus excepturi nihil repellat Ut enim ad 
+        minim veniam, quis nostrudexercitationullamco laboris nisi ut aliquip ex a commodo consequant?</p>
+        <img src="male2.jpg" height="50" width="60">
+        </div>
+        <div>
+        <h3>Office Shoes</h3>
+        <p>Lorem ipsum dlor, sit amet consectetur adipscing elit. Dolores quas ducimus vitae id voluptatibus excepturi nihil repellat Ut enim ad 
+        minim veniam, quis nostrudexercitationullamco laboris nisi ut aliquip ex a commodo consequant?</p>
+        <img src="male3.jpg" height="50" width="60"> 
+        </div>
+        <div>
+        <h3>Latest Collections</h3>
+        <p>Lorem ipsum dlor, sit amet consectetur adipscing elit. Dolores quas ducimus vitae id voluptatibus excepturi nihil repellat Ut enim ad 
+        minim veniam, quis nostrudexercitationullamco laboris nisi ut aliquip ex a commodo consequant?<a href="#">For more designs</a>   </p>
+        </div>
+        <hr>
+        <footer>
+        <p>Copyrights &copy; 2020</p>
+        <p>All rights reserved</p>
+        </footer>
+        
+    </main>
+</body>
+</html>
+</body>
+</html>

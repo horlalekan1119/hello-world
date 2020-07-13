@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Females shoes</title>
+    <style>
+        h2 {
+            display: inline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+    <a href="#">Go back home</a>
+        <br><br>
+        <div>
+            <img src="female3.jpg" height="50" width="60">
+            <br>
+            <h2>Female Designs</h2>
+            <br><br>
+            <hr>
+        </div>
+    </header>
+    <main>
+        <div>
+        <h3>Sandals</h3>
+        <p>Lorem ipsum dlor, sit amet consectetur adipscing elit. Dolores quas ducimus vitae id voluptatibus excepturi nihil repellat Ut enim ad 
+        minim veniam, quis nostrudexercitationullamco laboris nisi ut aliquip ex a commodo consequant?</p>
+        <img src="female1.jpg" height="50" width="60">
+        </div>
+        <div>
+            <h3>Party Shoes</h3>
+            <p>Lorem ipsum dlor, sit amet consectetur adipscing elit. Dolores quas ducimus vitae id voluptatibus excepturi nihil repellat Ut enim ad 
+            minim veniam, quis nostrudexercitationullamco laboris nisi ut aliquip ex a commodo consequant?</p>
+            <img src="female2.jpg" height="50" width="60"> 
+        </div>
+        <div>
+            <h3>Office Designs</h3>
+            <p>Lorem ipsum dlor, sit amet consectetur adipscing elit. Dolores quas ducimus vitae id voluptatibus excepturi nihil repellat Ut enim ad 
+            minim veniam, quis nostrudexercitationullamco laboris nisi ut aliquip ex a commodo consequant?<a href="#">You can check here for other 
+            designs</a>   </p>
+        </div>
+        <hr>
+        <footer>
+        <p>Copyrights &copy; 2020</p>
+        <p>All rights reserved</p>
+        </footer>
+        
+    </main>
+</body>
+</html>
